@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://salaloom.github.io/handbook-bk2vtr/sitemap.xml
